@@ -10,3 +10,7 @@
 |6|[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)|50.8k|N/A|Python|No fortress, purely open ground. OpenManus is Coming.|
 |7|[Tencent-Hunyuan/Hunyuan-A13B](https://github.com/Tencent-Hunyuan/Hunyuan-A13B)|803|N/A|Python|Tencent Hunyuan A13B (short as Hunyuan-A13B), an innovative and open-source LLM built on a fine-grained MoE architecture.|
 |8|[test-time-training/ttt-video-dit](https://github.com/test-time-training/ttt-video-dit)|2.3k|N/A|Python|Official PyTorch implementation of One-Minute Video Generation with Test-Time Training.|
+
+
+- https://github.com/Osly-AI/PocketManus
+- https://github.com/TheAgenticAI/CortexON
