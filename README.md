@@ -16,15 +16,15 @@
 |12|[unbody-io/unbody](https://github.com/unbody-io/unbody)|414|TypeScript|The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.|
 |13|[Osly-AI/PocketManus](https://github.com/Osly-AI/PocketManus)|276|Python|Extends the Open Manus project, integrating it with PocketFlow for orchestrating complex agent workflows.|
 
-Grok-1: A tool for making AI more explainable and transparent.
-OpenSora: An open-source platform to help deploy large-scale AI systems.
-Devika: A platform designed to make AI development more accessible.
-OpenHands: A software library for simplifying the development of hand gesture recognition systems.
-LLaMA 3: Meta's open-source large language model, with versions in 8 billion, 70 billion, and 405 billion parameters.
-ScrapeGraph-AI: Merges graph-based data structures with web scraping for data analysis.
-Daytona: A flexible framework for building real-time machine learning systems.
-MiniCPM-V: A vision-language model project.
-Skyvern: A project focused on the automation of user workflows. 
+- Grok-1: A tool for making AI more explainable and transparent.
+- OpenSora: An open-source platform to help deploy large-scale AI systems.
+- Devika: A platform designed to make AI development more accessible.
+- OpenHands: A software library for simplifying the development of hand gesture recognition systems.
+- LLaMA 3: Meta's open-source large language model, with versions in 8 billion, 70 billion, and 405 billion parameters.
+- ScrapeGraph-AI: Merges graph-based data structures with web scraping for data analysis.
+- Daytona: A flexible framework for building real-time machine learning systems.
+- MiniCPM-V: A vision-language model project.
+- Skyvern: A project focused on the automation of user workflows. 
 
 
  
