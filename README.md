@@ -15,8 +15,6 @@
 |11|[TheAgenticAI/CortexON](https://github.com/TheAgenticAI/CortexON)|455|Python|An open-source, multi-agent AI system designed to automate a wide range of everyday tasks.|
 |12|[unbody-io/unbody](https://github.com/unbody-io/unbody)|414|TypeScript|The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.|
 |13|[Osly-AI/PocketManus](https://github.com/Osly-AI/PocketManus)|276|Python|Extends the Open Manus project, integrating it with PocketFlow for orchestrating complex agent workflows.|
-|14|[xai-org/grok-1](https://github.com/xai-org/grok-1)|50.6k|Python|Grok open release|
-|15|[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)|27.9k|Python|Open-Sora: Democratizing Efficient Video Production for All|
 
 
 
