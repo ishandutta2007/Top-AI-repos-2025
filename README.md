@@ -17,3 +17,5 @@
 
 - https://github.com/Zyphra/Zonos
 - https://github.com/stepfun-ai/Step-Video-T2V
+- https://github.com/stepfun-ai/Step-Audio
+- 
