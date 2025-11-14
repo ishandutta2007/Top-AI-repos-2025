@@ -17,9 +17,6 @@
 |13|[Osly-AI/PocketManus](https://github.com/Osly-AI/PocketManus)|276|Python|Extends the Open Manus project, integrating it with PocketFlow for orchestrating complex agent workflows.|
 |14|[xai-org/grok-1](https://github.com/xai-org/grok-1)|50.6k|Python|Grok open release|
 |15|[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)|27.9k|Python|Open-Sora: Democratizing Efficient Video Production for All|
-|16|[stitionai/devika](https://github.com/stitionai/devika)|19.5k|Python|Devika is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.|
-|17|[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)|65k|Python|🙌 OpenHands: Code Less, Make More|
-|18|[meta-llama/llama3](https://github.com/meta-llama/llama3)|29.1k|Python|The official Meta Llama 3 GitHub site.|
 
 
 
