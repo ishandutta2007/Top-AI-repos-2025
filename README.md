@@ -21,7 +21,6 @@
 |17|[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)|65k|Python|🙌 OpenHands: Code Less, Make More|
 |18|[meta-llama/llama3](https://github.com/meta-llama/llama3)|29.1k|Python|The official Meta Llama 3 GitHub site.|
 |19|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)|21.8k|Python|Python scraper based on AI|
-|20|[daytonaio/daytona](https://github.com/daytonaio/daytona)|30.2k|TypeScript|Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.|
 |21|[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)|22.2k|Python|MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone|
 
 
