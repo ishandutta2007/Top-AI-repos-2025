@@ -20,7 +20,6 @@
 |16|[stitionai/devika](https://github.com/stitionai/devika)|19.5k|Python|Devika is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.|
 |17|[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)|65k|Python|🙌 OpenHands: Code Less, Make More|
 |18|[meta-llama/llama3](https://github.com/meta-llama/llama3)|29.1k|Python|The official Meta Llama 3 GitHub site.|
-|19|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)|21.8k|Python|Python scraper based on AI|
 
 
 
