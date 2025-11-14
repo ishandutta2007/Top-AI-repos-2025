@@ -12,10 +12,10 @@
 |8|[TheAgenticAI/CortexON](https://github.com/TheAgenticAI/CortexON)|455|Python|An open-source, multi-agent AI system designed to automate a wide range of everyday tasks.|
 |9|[unbody-io/unbody](https://github.com/unbody-io/unbody)|414|TypeScript|The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.|
 |10|[Osly-AI/PocketManus](https://github.com/Osly-AI/PocketManus)|276|Python|Extends the Open Manus project, integrating it with PocketFlow for orchestrating complex agent workflows.|
+|11|[Zyphra/Zonos](https://github.com/Zyphra/Zonos)|7.1k|Python|Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.|
+|12|[stepfun-ai/Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V)|3.1k|Python||
+|13|[stepfun-ai/Step-Audio](https://github.com/stepfun-ai/Step-Audio)|4.6k|Python||
 
 
 
-- https://github.com/Zyphra/Zonos
-- https://github.com/stepfun-ai/Step-Video-T2V
-- https://github.com/stepfun-ai/Step-Audio
-- 
+ 
