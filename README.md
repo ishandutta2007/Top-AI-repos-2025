@@ -15,12 +15,13 @@
 |11|[TheAgenticAI/CortexON](https://github.com/TheAgenticAI/CortexON)|455|Python|An open-source, multi-agent AI system designed to automate a wide range of everyday tasks.|
 |12|[unbody-io/unbody](https://github.com/unbody-io/unbody)|414|TypeScript|The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.|
 |13|[Osly-AI/PocketManus](https://github.com/Osly-AI/PocketManus)|276|Python|Extends the Open Manus project, integrating it with PocketFlow for orchestrating complex agent workflows.|
+|14|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|18k|Python|DeerFlow (Deep Exploration and Efficient Research Flow) is an open-source, community-driven framework developed by ByteDance. It is designed to automate complex research workflows by integrating large language models (LLMs) with a variety of specialized tools.|
+|15|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|1.5k|TypeScript|UI-TARS Desktop is a native GUI agent that can operate on a user's local computer.|
+|16|[bytedance/trae-agent](https://github.com/bytedance/trae-agent)|9k|Python|Trae-Agent is an open-source, LLM-based agent for general-purpose software engineering tasks developed by ByteDance.|
 
 
 
-- https://github.com/bytedance/deer-flow
-- https://github.com/bytedance/UI-TARS-desktop
-- https://github.com/bytedance/trae-agent
+
 
 
 
