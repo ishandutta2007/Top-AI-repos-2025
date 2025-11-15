@@ -19,3 +19,4 @@
 
 
  
+- https://github.com/bytedance/UI-TARS-desktop
