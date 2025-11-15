@@ -18,5 +18,5 @@
 
 
 
- 
+ - https://github.com/bytedance/deer-flow
 - https://github.com/bytedance/UI-TARS-desktop
