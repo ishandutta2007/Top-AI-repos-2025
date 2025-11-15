@@ -21,3 +21,17 @@
 - https://github.com/bytedance/deer-flow
 - https://github.com/bytedance/UI-TARS-desktop
 - https://github.com/bytedance/trae-agent
+
+
+
+
+
+##
+
+### 🤔 Questions? Problems? Suggestions?
+
+#### Get help - [Discord 💬](https://discord.gg/jc4xtF58Ve)
+
+[![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
+
+##
